@@ -1,5 +1,5 @@
-Step1: Clone the Project or Download it from "https://github.com/quickseries/spa-test.git"
-Step2:Already Uploaded "node_modules" ,skip this step, incase any body want to setup fresh node_modules(Go to /spa-test and run the npm install.It will download the modules defined in package.json.)
+Step1: Clone the Project or Download it from "https://github.com/rsrahu3/WeatherApp.git"
+Step2:Already Uploaded "node_modules" ,skip this step, incase want to setup fresh node_modules(Go to /WeatherApp and run the "npm install".It will download the modules defined in package.json.)
 Step3:Start the mongodb server on port "27017".
 step4:run the command "node start-server", it will start the node server on port 8090.
 step5:Go to the browser and hit "http://localhost:8090/index.html"
